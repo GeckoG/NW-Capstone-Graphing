@@ -29,4 +29,4 @@ jobs:
             SHINYAPPS_TOKEN: ${{ secrets.SHINYAPPS_TOKEN }}
         run: |
             pip install rsconnect-python
-            rsconnect deploy shiny . --title cintel-07
+            rsconnect deploy shiny . --title TF-Graphs
