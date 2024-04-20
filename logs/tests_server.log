@@ -1,0 +1,733 @@
+2024-04-20 13:45:04,098.tests_server.INFO =============================================================
+2024-04-20 13:45:04,098.tests_server.INFO Today is 2024-04-20 at 01:45 PM
+2024-04-20 13:45:04,098.tests_server.INFO This file is running on: nt Windows 11
+2024-04-20 13:45:04,098.tests_server.INFO The Python version is: 3.12.2
+2024-04-20 13:45:04,098.tests_server.INFO The active environment path is:   C:\Users\mattg\AppData\Local\Programs\Python\Python312
+2024-04-20 13:45:04,099.tests_server.INFO The current working directory is: C:\Users\mattg\OneDrive\Documents\Northwest Missouri State\Capstone\Graphing Tool\cintel-07
+2024-04-20 13:45:04,099.tests_server.INFO =============================================================
+2024-04-20 13:45:07,818.tests_server.INFO tests_string starting
+2024-04-20 13:45:07,818.tests_server.INFO Showing test results for the following events: ('100m', '200m', '400m').
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Men',)
+2024-04-20 13:45:07,818.tests_server.INFO READING df from C:\Users\mattg\OneDrive\Documents\Northwest Missouri State\Capstone\Graphing Tool\cintel-07\data\top100avg.csv
+2024-04-20 13:45:07,822.tests_server.INFO READING df len 5460
+2024-04-20 13:45:07,823.tests_server.INFO Rendering TEMP table with 78 rows
+2024-04-20 13:45:07,859.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:07,861.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:07,863.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:14,491.tests_server.INFO tests_string starting
+2024-04-20 13:45:14,491.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Women',)
+2024-04-20 13:45:14,491.tests_server.INFO READING df from C:\Users\mattg\OneDrive\Documents\Northwest Missouri State\Capstone\Graphing Tool\cintel-07\data\top100avg.csv
+2024-04-20 13:45:14,494.tests_server.INFO READING df len 5460
+2024-04-20 13:45:14,495.tests_server.INFO Rendering TEMP table with 26 rows
+2024-04-20 13:45:14,497.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:19,515.tests_server.INFO tests_string starting
+2024-04-20 13:45:19,515.tests_server.INFO Showing test results for the following events: ('100m', '200m').
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Women',)
+2024-04-20 13:45:19,515.tests_server.INFO Rendering TEMP table with 52 rows
+2024-04-20 13:45:19,519.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:19,520.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:22,367.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:22,369.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:27,395.tests_server.INFO tests_string starting
+2024-04-20 13:45:27,395.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Women',)
+2024-04-20 13:45:27,396.tests_server.INFO Rendering TEMP table with 26 rows
+2024-04-20 13:45:27,399.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:31,812.tests_server.INFO tests_string starting
+2024-04-20 13:45:31,812.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('Kansas 1A', 'World').
+ Showing test results for ('Women',)
+2024-04-20 13:45:31,813.tests_server.INFO Rendering TEMP table with 52 rows
+2024-04-20 13:45:31,817.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:31,819.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:35,099.tests_server.INFO tests_string starting
+2024-04-20 13:45:35,100.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('Kansas 1A', 'Kansas 3A', 'World').
+ Showing test results for ('Women',)
+2024-04-20 13:45:35,101.tests_server.INFO Rendering TEMP table with 78 rows
+2024-04-20 13:45:35,105.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:35,106.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:35,107.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:35,907.tests_server.INFO tests_string starting
+2024-04-20 13:45:35,907.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('Kansas 1A', 'Kansas 3A', 'Kansas 6A', 'World').
+ Showing test results for ('Women',)
+2024-04-20 13:45:35,909.tests_server.INFO Rendering TEMP table with 104 rows
+2024-04-20 13:45:35,914.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:35,915.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:35,916.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:35,917.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,338.tests_server.INFO tests_string starting
+2024-04-20 13:45:36,338.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('Kansas 1A', 'Kansas 3A', 'Kansas 6A', 'NAIA', 'World').
+ Showing test results for ('Women',)
+2024-04-20 13:45:36,340.tests_server.INFO Rendering TEMP table with 130 rows
+2024-04-20 13:45:36,346.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,347.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,348.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,349.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,350.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,701.tests_server.INFO tests_string starting
+2024-04-20 13:45:36,701.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('Kansas 1A', 'Kansas 3A', 'Kansas 6A', 'NAIA', 'NCAA D-I', 'World').
+ Showing test results for ('Women',)
+2024-04-20 13:45:36,703.tests_server.INFO Rendering TEMP table with 156 rows
+2024-04-20 13:45:36,710.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,711.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,712.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,713.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,713.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:36,714.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,048.tests_server.INFO tests_string starting
+2024-04-20 13:45:37,048.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('Kansas 1A', 'Kansas 3A', 'Kansas 6A', 'NAIA', 'NCAA D-I', 'NCAA D-II', 'World').
+ Showing test results for ('Women',)
+2024-04-20 13:45:37,049.tests_server.INFO Rendering TEMP table with 182 rows
+2024-04-20 13:45:37,056.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,058.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,059.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,059.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,060.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,061.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,062.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,428.tests_server.INFO tests_string starting
+2024-04-20 13:45:37,428.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('Kansas 1A', 'Kansas 3A', 'Kansas 6A', 'NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Women',)
+2024-04-20 13:45:37,429.tests_server.INFO Rendering TEMP table with 208 rows
+2024-04-20 13:45:37,436.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,437.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,438.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,439.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,439.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,440.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,441.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:37,442.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,676.tests_server.INFO tests_string starting
+2024-04-20 13:45:38,677.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('Kansas 1A', 'Kansas 3A', 'Kansas 6A', 'NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:45:38,678.tests_server.INFO Rendering TEMP table with 416 rows
+2024-04-20 13:45:38,689.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,690.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,691.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,692.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,693.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,694.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,695.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,696.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,697.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,698.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,699.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,700.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,700.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,701.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,702.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:38,703.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,786.tests_server.INFO tests_string starting
+2024-04-20 13:45:47,787.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('Kansas 1A', 'Kansas 6A', 'NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:45:47,788.tests_server.INFO Rendering TEMP table with 364 rows
+2024-04-20 13:45:47,799.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,800.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,801.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,802.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,803.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,803.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,804.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,805.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,806.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,807.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,808.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,809.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,810.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:47,811.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,277.tests_server.INFO tests_string starting
+2024-04-20 13:45:48,277.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('Kansas 6A', 'NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:45:48,279.tests_server.INFO Rendering TEMP table with 312 rows
+2024-04-20 13:45:48,287.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,288.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,289.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,290.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,291.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,292.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,293.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,294.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,295.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,295.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,296.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,297.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,790.tests_server.INFO tests_string starting
+2024-04-20 13:45:48,790.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:45:48,791.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:45:48,800.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,801.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,802.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,803.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,804.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,805.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,806.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,807.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,807.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:48,808.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,965.tests_server.INFO tests_string starting
+2024-04-20 13:45:54,965.tests_server.INFO Showing test results for the following events: ('100m', '200m').
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:45:54,967.tests_server.INFO Rendering TEMP table with 520 rows
+2024-04-20 13:45:54,980.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,981.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,982.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,983.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,984.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,985.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,986.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,987.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,988.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,988.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,989.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,990.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,991.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,992.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,993.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,994.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,995.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,995.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,996.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:54,997.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:55,789.tests_server.INFO tests_string starting
+2024-04-20 13:45:55,789.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:45:55,790.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:45:55,798.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:55,799.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:55,800.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:55,801.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:55,802.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:55,802.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:55,803.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:55,804.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:55,805.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:55,806.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,187.tests_server.INFO tests_string starting
+2024-04-20 13:45:57,188.tests_server.INFO Showing test results for the following events: ('100m', 'Pole Vault').
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:45:57,189.tests_server.INFO Rendering TEMP table with 390 rows
+2024-04-20 13:45:57,200.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,201.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,201.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,202.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,204.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,205.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,205.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,206.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,207.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,208.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:57,209.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:45:57,210.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:45:57,210.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:45:57,211.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:45:57,212.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:45:57,213.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:45:57,214.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:45:57,214.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:45:57,215.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:45:57,216.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:45:58,461.tests_server.INFO tests_string starting
+2024-04-20 13:45:58,461.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:45:58,463.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:45:58,473.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:58,474.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:58,475.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:58,476.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:58,477.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:58,478.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:58,479.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:58,480.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:58,481.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:45:58,481.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,102.tests_server.INFO tests_string starting
+2024-04-20 13:46:02,102.tests_server.INFO Showing test results for the following events: ('100m', 'Pole Vault').
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:02,104.tests_server.INFO Rendering TEMP table with 390 rows
+2024-04-20 13:46:02,113.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,114.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,115.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,116.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,117.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,118.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,119.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,120.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,120.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,121.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:02,122.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:02,123.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:02,124.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:02,125.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:02,125.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:02,126.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:02,127.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:02,128.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:02,128.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:02,129.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:03,581.tests_server.INFO tests_string starting
+2024-04-20 13:46:03,581.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:03,582.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:46:03,591.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:03,592.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:03,593.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:03,594.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:03,596.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:03,596.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:03,597.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:03,598.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:03,599.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:03,600.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,032.tests_server.INFO tests_string starting
+2024-04-20 13:46:04,032.tests_server.INFO Showing test results for the following events: ('100m', 'Pole Vault').
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:04,034.tests_server.INFO Rendering TEMP table with 390 rows
+2024-04-20 13:46:04,046.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,047.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,048.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,049.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,049.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,050.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,051.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,052.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,053.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,054.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:04,055.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:04,055.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:04,056.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:04,057.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:04,058.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:04,059.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:04,059.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:04,060.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:04,061.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:04,062.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:05,140.tests_server.INFO tests_string starting
+2024-04-20 13:46:05,140.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:05,142.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:46:05,151.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:05,152.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:05,153.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:05,154.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:05,155.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:05,156.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:05,157.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:05,158.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:05,159.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:05,160.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,372.tests_server.INFO tests_string starting
+2024-04-20 13:46:07,372.tests_server.INFO Showing test results for the following events: ('100m', 'Pole Vault').
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:07,373.tests_server.INFO Rendering TEMP table with 390 rows
+2024-04-20 13:46:07,385.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,386.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,387.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,388.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,388.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,389.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,390.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,391.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,392.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,393.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:07,394.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:07,395.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:07,395.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:07,396.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:07,397.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:07,398.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:07,398.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:07,399.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:07,400.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:07,401.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:08,950.tests_server.INFO tests_string starting
+2024-04-20 13:46:08,950.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:08,952.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:46:08,960.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:08,961.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:08,962.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:08,963.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:08,964.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:08,965.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:08,966.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:08,967.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:08,968.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:08,968.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,434.tests_server.INFO tests_string starting
+2024-04-20 13:46:09,434.tests_server.INFO Showing test results for the following events: ('100m', 'Triple Jump').
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:09,436.tests_server.INFO Rendering TEMP table with 520 rows
+2024-04-20 13:46:09,448.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,449.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,450.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,451.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,452.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,453.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,454.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,455.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,455.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,456.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,457.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,458.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,459.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,460.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,461.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,462.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,462.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,463.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,464.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:09,465.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,315.tests_server.INFO tests_string starting
+2024-04-20 13:46:10,316.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:10,317.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:46:10,325.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,327.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,328.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,329.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,330.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,331.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,332.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,333.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,333.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,334.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,799.tests_server.INFO tests_string starting
+2024-04-20 13:46:10,800.tests_server.INFO Showing test results for the following events: ('100m', 'Triple Jump').
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:10,801.tests_server.INFO Rendering TEMP table with 520 rows
+2024-04-20 13:46:10,814.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,815.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,817.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,818.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,819.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,819.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,820.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,821.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,822.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,823.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,824.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,825.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,826.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,826.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,828.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,828.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,829.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,830.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,831.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:10,832.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:12,648.tests_server.INFO tests_string starting
+2024-04-20 13:46:12,648.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:12,649.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:46:12,656.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:12,657.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:12,658.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:12,658.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:12,659.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:12,660.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:12,661.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:12,662.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:12,663.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:12,664.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,900.tests_server.INFO tests_string starting
+2024-04-20 13:46:13,901.tests_server.INFO Showing test results for the following events: ('100m', 'High Jump').
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:13,902.tests_server.INFO Rendering TEMP table with 520 rows
+2024-04-20 13:46:13,915.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,916.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,917.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,917.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,918.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,919.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,920.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,921.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,922.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,923.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,924.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,925.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,926.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,927.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,927.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,928.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,929.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,930.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,931.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:13,932.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:15,035.tests_server.INFO tests_string starting
+2024-04-20 13:46:15,036.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:15,037.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:46:15,044.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:15,045.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:15,046.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:15,047.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:15,048.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:15,049.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:15,049.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:15,051.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:15,052.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:15,053.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,050.tests_server.INFO tests_string starting
+2024-04-20 13:46:16,051.tests_server.INFO Showing test results for the following events: ('100m', 'Pole Vault').
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:16,052.tests_server.INFO Rendering TEMP table with 390 rows
+2024-04-20 13:46:16,063.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,064.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,065.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,066.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,067.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,068.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,069.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,070.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,071.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,072.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,073.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:16,074.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:16,074.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:16,075.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:16,076.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:16,077.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:16,078.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:16,078.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:16,079.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:16,080.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:16,748.tests_server.INFO tests_string starting
+2024-04-20 13:46:16,748.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:16,749.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:46:16,756.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,756.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,758.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,758.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,759.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,760.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,761.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,762.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,763.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:16,764.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,264.tests_server.INFO tests_string starting
+2024-04-20 13:46:17,264.tests_server.INFO Showing test results for the following events: ('100m', 'Pole Vault').
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:17,266.tests_server.INFO Rendering TEMP table with 390 rows
+2024-04-20 13:46:17,275.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,276.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,277.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,278.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,279.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,281.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,282.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,283.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,284.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,284.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:17,285.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:17,286.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:17,287.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:17,288.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:17,289.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:17,289.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:17,290.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:17,291.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:17,292.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:17,292.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:18,108.tests_server.INFO tests_string starting
+2024-04-20 13:46:18,108.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NAIA', 'NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:18,109.tests_server.INFO Rendering TEMP table with 260 rows
+2024-04-20 13:46:18,117.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:18,118.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:18,119.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:18,120.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:18,121.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:18,121.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:18,122.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:18,123.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:18,124.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:18,125.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:22,864.tests_server.INFO tests_string starting
+2024-04-20 13:46:22,864.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:22,865.tests_server.INFO Rendering TEMP table with 208 rows
+2024-04-20 13:46:22,872.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:22,873.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:22,874.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:22,875.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:22,876.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:22,877.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:22,878.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:22,879.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:24,309.tests_server.INFO tests_string starting
+2024-04-20 13:46:24,310.tests_server.INFO Showing test results for the following events: ('100m', 'Pole Vault').
+ Showing test results for the following divisions: ('NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:24,311.tests_server.INFO Rendering TEMP table with 312 rows
+2024-04-20 13:46:24,320.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:24,321.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:24,321.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:24,322.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:24,323.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:24,324.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:24,325.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:24,326.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:24,327.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:24,327.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:24,328.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:24,329.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:24,330.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:24,331.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:24,332.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:24,332.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:25,386.tests_server.INFO tests_string starting
+2024-04-20 13:46:25,386.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NCAA D-I', 'NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:25,388.tests_server.INFO Rendering TEMP table with 208 rows
+2024-04-20 13:46:25,394.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:25,395.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:25,396.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:25,397.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:25,399.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:25,399.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:25,400.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:25,401.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:27,969.tests_server.INFO tests_string starting
+2024-04-20 13:46:27,970.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NCAA D-II', 'NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:27,971.tests_server.INFO Rendering TEMP table with 156 rows
+2024-04-20 13:46:27,978.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:27,979.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:27,980.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:27,981.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:27,982.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:27,983.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:28,288.tests_server.INFO tests_string starting
+2024-04-20 13:46:28,288.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:28,289.tests_server.INFO Rendering TEMP table with 104 rows
+2024-04-20 13:46:28,294.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:28,296.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:28,296.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:28,297.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:28,691.tests_server.INFO tests_string starting
+2024-04-20 13:46:28,691.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:28,693.tests_server.INFO Rendering TEMP table with 52 rows
+2024-04-20 13:46:28,697.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:28,699.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:30,103.tests_server.INFO tests_string starting
+2024-04-20 13:46:30,103.tests_server.INFO Showing test results for the following events: ('100m', 'Pole Vault').
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:30,105.tests_server.INFO Rendering TEMP table with 78 rows
+2024-04-20 13:46:30,110.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:30,111.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:30,112.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:30,113.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:31,005.tests_server.INFO tests_string starting
+2024-04-20 13:46:31,006.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:31,007.tests_server.INFO Rendering TEMP table with 52 rows
+2024-04-20 13:46:31,011.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:31,013.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:31,526.tests_server.INFO tests_string starting
+2024-04-20 13:46:31,526.tests_server.INFO Showing test results for the following events: ('100m', 'Pole Vault').
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:31,527.tests_server.INFO Rendering TEMP table with 78 rows
+2024-04-20 13:46:31,532.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:31,533.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:31,534.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:31,535.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:32,979.tests_server.INFO tests_string starting
+2024-04-20 13:46:32,979.tests_server.INFO Showing test results for the following events: ('100m',).
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:32,980.tests_server.INFO Rendering TEMP table with 52 rows
+2024-04-20 13:46:32,983.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:32,984.tests_server.INFO Rendering TEMP chart with 13 points
+2024-04-20 13:46:35,819.tests_server.INFO tests_string starting
+2024-04-20 13:46:35,820.tests_server.INFO Showing test results for the following events: ().
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:35,821.tests_server.INFO Rendering TEMP table with 0 rows
+2024-04-20 13:46:36,892.tests_server.INFO tests_string starting
+2024-04-20 13:46:36,893.tests_server.INFO Showing test results for the following events: ('Pole Vault',).
+ Showing test results for the following divisions: ('World',).
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:36,894.tests_server.INFO Rendering TEMP table with 26 rows
+2024-04-20 13:46:36,898.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:36,900.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:38,895.tests_server.INFO tests_string starting
+2024-04-20 13:46:38,895.tests_server.INFO Showing test results for the following events: ('Pole Vault',).
+ Showing test results for the following divisions: ('NCAA D-III', 'World').
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:38,897.tests_server.INFO Rendering TEMP table with 52 rows
+2024-04-20 13:46:38,901.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:38,902.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:38,902.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:38,903.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:39,357.tests_server.INFO tests_string starting
+2024-04-20 13:46:39,357.tests_server.INFO Showing test results for the following events: ('Pole Vault',).
+ Showing test results for the following divisions: ('NCAA D-III',).
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:39,359.tests_server.INFO Rendering TEMP table with 26 rows
+2024-04-20 13:46:39,364.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:39,365.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:40,766.tests_server.INFO tests_string starting
+2024-04-20 13:46:40,767.tests_server.INFO Showing test results for the following events: ('Pole Vault',).
+ Showing test results for the following divisions: ().
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:40,768.tests_server.INFO Rendering TEMP table with 0 rows
+2024-04-20 13:46:41,635.tests_server.INFO tests_string starting
+2024-04-20 13:46:41,635.tests_server.INFO Showing test results for the following events: ('Pole Vault',).
+ Showing test results for the following divisions: ('Kansas 1A',).
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:41,636.tests_server.INFO Rendering TEMP table with 26 rows
+2024-04-20 13:46:41,639.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:41,640.tests_server.INFO Rendering TEMP chart with 0 points
+2024-04-20 13:46:42,336.tests_server.INFO tests_string starting
+2024-04-20 13:46:42,336.tests_server.INFO Showing test results for the following events: ('Pole Vault',).
+ Showing test results for the following divisions: ().
+ Showing test results for ('Men', 'Women')
+2024-04-20 13:46:42,338.tests_server.INFO Rendering TEMP table with 0 rows
