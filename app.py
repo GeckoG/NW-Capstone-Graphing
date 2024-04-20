@@ -33,9 +33,9 @@ app_ui = ui.page_navbar(
             get_tests_outputs(),
         ),
     ),
-    ui.nav(ui.a("About", href="https://github.com/geckog")),
-    ui.nav(ui.a("GitHub", href="https://github.com/geckog/capstone-graphing")),
-    title=ui.h1("Matt's Dashboard"),
+    ui.nav(ui.a("About", href="https://github.com/GeckoG/NW-Capstone-Graphing/blob/main/README.md")),
+    ui.nav(ui.a("GitHub", href="https://github.com/geckog/NW-Capstone-Graphing")),
+    title=ui.h1("T&F Graphing Dashboard"),
 )
 
 
